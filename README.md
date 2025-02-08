@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Devin AI**
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on **Cloud-Based services**
 
