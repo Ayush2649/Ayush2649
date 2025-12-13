@@ -96,10 +96,6 @@
 ### 🪄 **Profile Summary**
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush2649&theme=tokyonight"/>
 
-### 🔥 Detailed Contribution Streak Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2649&" alt="ayush2649" /></p>
-
 ### 🔮 **Alpha Stats**
 <img src="https://github-stats-alpha.vercel.app/api/?username=Ayush2649&cc=000000&tc=FFFFFF&ic=00FFFF&theme=dark&animation=true"/>
 
