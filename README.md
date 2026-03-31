@@ -85,6 +85,20 @@
 
 ---
 
+## 🌍 Open Source & Contributions
+
+- 🤝 **Contributing** to various React and Node.js projects
+- 🏆 **Hackathon Participant**: Built innovative solutions under tight deadlines
+- 🌟 **Community Member**: Active in developer communities and forums
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush2649&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 🔥 GitHub Streak & Analytics
 
 <div align="center">
