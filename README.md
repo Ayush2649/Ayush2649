@@ -87,7 +87,7 @@
 
 ## 🌍 Open Source & Contributions
 
-- 🤝 **Contributing** to various React and Node.js projects
+- 🤝 **Contributing** to various React, Next.js and Node.js projects
 - 🏆 **Hackathon Participant**: Built innovative solutions under tight deadlines
 - 🌟 **Community Member**: Active in developer communities and forums
 
