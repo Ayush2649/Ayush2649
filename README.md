@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Automation+Enthusiast;Problem+Solver;Always+Learning+🚀" />
 
-### 🎓 Computer Engineering Student | 💻 Full Stack & AI Developer  
+### 🎓 Software Engineer | 💻 Full Stack & AI Developer  
 ✨ *“Turning ideas into clean code & impactful solutions.”*
 
 </div>
