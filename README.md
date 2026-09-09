@@ -79,8 +79,7 @@
 
 <div align="center">
   
-[![Resume](https://drive.google.com/file/d/1w7wa_28PVCaCkGAHzOU9IRs6JS4FZ103/view?usp=sharing)
-
+[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1w7wa_28PVCaCkGAHzOU9IRs6JS4FZ103/view?usp=sharing)
 </div>
 
 ---
