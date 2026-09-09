@@ -79,7 +79,7 @@
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Ayush2649/Ayush2649/blob/main/Ayush%20Sahu%20Resume.pdf)
+[![Resume](https://drive.google.com/file/d/1w7wa_28PVCaCkGAHzOU9IRs6JS4FZ103/view?usp=sharing)
 
 </div>
 
@@ -91,11 +91,6 @@
 - 🏆 **Hackathon Participant**: Built innovative solutions under tight deadlines
 - 🌟 **Community Member**: Active in developer communities and forums
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush2649&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
